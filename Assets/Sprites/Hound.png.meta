@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: f881550db63f93a4b8d29da32a1dc852
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 704516478429198040
+    second: houndJumpAtk_1
+  - first:
+      213: 4622659336197952886
+    second: houndJumpAtk_2
+  - first:
+      213: -6966346676969501159
+    second: houndJumpAtk_3
+  - first:
+      213: 6228064986389730127
+    second: houndJumpAtk_4
+  - first:
+      213: -2488522018375710688
+    second: houndJumpAtk_5
+  - first:
+      213: 8725685353690620136
+    second: houndJumpAtk_6
+  - first:
+      213: -968342659606975905
+    second: houndStand
+  - first:
+      213: -7055305521329087637
+    second: houndHurt
+  - first:
+      213: 8945668660863548457
+    second: houndidle_1
+  - first:
+      213: -5653234416353046373
+    second: houndidle_2
+  - first:
+      213: 3545233452208195657
+    second: houndidle_3
+  - first:
+      213: 4941545719201054145
+    second: houndidle_4
+  - first:
+      213: 5218576556026188198
+    second: houndrun_1
+  - first:
+      213: -735916236494631185
+    second: houndrun_2
+  - first:
+      213: 633543183469904913
+    second: houndrun_3
+  - first:
+      213: -3350081953831549452
+    second: houndrun_4
+  - first:
+      213: 1275110141132327105
+    second: houndrun_5
+  - first:
+      213: 9066406869043556570
+    second: Hound_17
+  - first:
+      213: -8277592799438140188
+    second: Hound_18
+  - first:
+      213: -2275762851626761374
+    second: Hound_19
+  - first:
+      213: 4919368849341893454
+    second: Hound_20
+  - first:
+      213: -7705601503476849896
+    second: Hound_21
+  - first:
+      213: -3633831639712212397
+    second: Hound_22
+  - first:
+      213: 3871444842627683943
+    second: Hound_23
+  - first:
+      213: -1745067435574067345
+    second: Hound_24
+  - first:
+      213: -5211874231458642451
+    second: Hound_25
+  - first:
+      213: -5601110944373579710
+    second: Hound_26
+  - first:
+      213: 5642732928368687096
+    second: Hound_27
+  - first:
+      213: -7682859196889260209
+    second: Hound_28
+  - first:
+      213: -1563625286959758169
+    second: Hound_29
+  - first:
+      213: 4008430145796373655
+    second: Hound_30
+  - first:
+      213: -8308089665567715027
+    second: Hound_31
+  - first:
+      213: -6726071049975688611
+    second: Hound_32
+  - first:
+      213: 4904361618512552365
+    second: Hound_33
+  - first:
+      213: -3927621809445528504
+    second: Hound_34
+  - first:
+      213: 8062554648254812551
+    second: Hound_35
+  - first:
+      213: -8676722533945467031
+    second: Hound_36
+  - first:
+      213: -627444799840518295
+    second: Hound_37
+  - first:
+      213: 8206103169054227651
+    second: Hound_38
+  - first:
+      213: 1871318046076833506
+    second: Hound_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: houndJumpAtk_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d67e232102f6c900800000000000000
+      internalID: 704516478429198040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndJumpAtk_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 192
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675d8b3ac2cf62040800000000000000
+      internalID: 4622659336197952886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndJumpAtk_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 196
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e82094b90925f90800000000000000
+      internalID: -6966346676969501159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndJumpAtk_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 207
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43decf7b188e6650800000000000000
+      internalID: 6228064986389730127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndJumpAtk_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 196
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0284af6b86ef67dd0800000000000000
+      internalID: -2488522018375710688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndJumpAtk_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0ee88399cd71970800000000000000
+      internalID: 8725685353690620136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndStand
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 128
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ae4494b71cf82f0800000000000000
+      internalID: -968342659606975905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndHurt
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 128
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bd35b4205861e90800000000000000
+      internalID: -7055305521329087637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndidle_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cbd193046652c70800000000000000
+      internalID: 8945668660863548457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndidle_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90934d104dab81b0800000000000000
+      internalID: -5653234416353046373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndidle_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 64
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94883b49a03333130800000000000000
+      internalID: 3545233452208195657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndidle_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 64
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdb45276a5e39440800000000000000
+      internalID: 4941545719201054145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndrun_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a15f1f7abb1c6840800000000000000
+      internalID: 5218576556026188198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndrun_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee8b4bf41089c5f0800000000000000
+      internalID: -735916236494631185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndrun_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11408903b2ccac800800000000000000
+      internalID: 633543183469904913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndrun_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f58c65663e1281d0800000000000000
+      internalID: -3350081953831549452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houndrun_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8c0b3eae912b110800000000000000
+      internalID: 1275110141132327105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
